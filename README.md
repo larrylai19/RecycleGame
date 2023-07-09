@@ -2,6 +2,9 @@
 
 此為元智大學 1112 互動視訊遊戲設計課程的期末專案，與組員 [Daniel](https://github.com/daniel91125) 透過 Unity 一同開發而成。
 
+Unity Hub 3.4.2
+Editor Version: 2021.3.24f1
+
 ## 開啟方式
 
 1. 原始碼: clone 本專案或[下載](https://github.com/larrylai19/RecycleGame/archive/refs/tags/v1.0.zip)並解壓縮後使用 Unity Hub 開啟

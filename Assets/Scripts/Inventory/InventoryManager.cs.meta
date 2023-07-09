@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dba75a2086d0d6849b88c02379a8b21c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myBag: {instanceID: 0}
+  - slotGrid: {instanceID: 0}
+  - slotPrefab: {instanceID: 0}
+  - itemInfo: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

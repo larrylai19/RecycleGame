@@ -37,12 +37,12 @@
 
 左上角為當前生命值，中間為計時器，右上角為當前還剩餘多少垃圾沒有分類
 
-![](/Images/2.png)
+![](Images/2.png)
 
 ## 背包畫面
 
-![](./Images/3.png)
+![](Images/3.png)
 
 ## 分類畫面
 
-![](https://hackmd.io/_uploads/HyY8J7Pth.png)
+![](Images/4.png)

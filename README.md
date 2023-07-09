@@ -2,7 +2,7 @@
 
 此為元智大學 1112 互動視訊遊戲設計課程的期末專案，與組員 [Daniel](https://github.com/daniel91125) 透過 Unity 一同開發而成。
 
-Unity Hub 3.4.2
+Unity Hub 3.4.2<br>
 Editor Version: 2021.3.24f1
 
 ## 開啟方式

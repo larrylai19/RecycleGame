@@ -41,7 +41,7 @@
 
 ## 背包畫面
 
-![](https://hackmd.io/_uploads/HJ7IJXvt2.png)
+![](./images/3.png)
 
 ## 分類畫面
 
